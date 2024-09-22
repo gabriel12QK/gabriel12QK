@@ -16,7 +16,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Angular, Ionic, Laravel, MySql**
 
-- 🌱 I’m currently learning **Springboot.**
+- 🌱 I’m currently learning **Springboot and Flutter.**
 
 - 📫 Feel free to reach me out **jogar737@gmail.com**
 <!--Intro end-->
